@@ -1,7 +1,38 @@
 [
     {
         "name": "Tony Wangolo",
-        "age": 23,
-        "course": "Information Technology"
+        "email": "wangolotony4@gmail.com",
+        "student_id": null,
+        "age": 23
+    },
+    {
+        "name": "John Reese",
+        "email": "reese3@yahoo.com",
+        "student_id": "SCNI/01228/2023",
+        "age": 25
+    },
+    {
+        "name": "Natasha Alley",
+        "email": "natashaleey@gmail.com",
+        "student_id": "ECCM/02431/2023",
+        "age": 19
+    },
+    {
+        "name": "Achieng Awuor",
+        "email": "awuor1@gmail.com",
+        "student_id": "SCCJ/2310/2024",
+        "age": 20
+    },
+    {
+        "name": "Clinton Madibwa",
+        "email": "madibwacli@gmail.com",
+        "student_id": "SCCJ/02341/2023",
+        "age": 25
+    },
+    {
+        "name": "Cate Njoroge",
+        "email": "njorogecate@gmail.com",
+        "student_id": "BCCR/01432/2022",
+        "age": 21
     }
 ]

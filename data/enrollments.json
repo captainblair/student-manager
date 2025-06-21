@@ -1,0 +1,32 @@
+[
+    {
+        "student_id": "SCNI/01228/2023",
+        "course_name": "Introduction to Python",
+        "enrollment_date": "2025-06-21 15:43:36"
+    },
+    {
+        "student_id": "SCCJ/2310/2024",
+        "course_name": "Web Development",
+        "enrollment_date": "2025-06-21 15:43:47"
+    },
+    {
+        "student_id": "ECCM/02431/2023",
+        "course_name": "Data Structures & Algorithms",
+        "enrollment_date": "2025-06-21 15:43:55"
+    },
+    {
+        "student_id": "SCNI/01228/2023",
+        "course_name": "Data Structures & Algorithms",
+        "enrollment_date": "2025-06-21 16:25:51"
+    },
+    {
+        "student_id": "SCCJ/2310/2024",
+        "course_name": "Machine Learning",
+        "enrollment_date": "2025-06-21 16:27:34"
+    },
+    {
+        "student_id": "BCCR/01432/2022",
+        "course_name": "Database Systems",
+        "enrollment_date": "2025-06-21 16:30:17"
+    }
+]

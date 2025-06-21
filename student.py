@@ -1,14 +1,9 @@
-# student.py
-
 class Student:
-    def __init__(self, name, age, course):
-        self.name = name
-        self.age = age
-        self.course = course
-
-    def to_dict(self):
-        return {
-            "name": self.name,
-            "age": self.age,
-            "course": self.course
-        }
+       def __init__(self, name, email, student_id, age=None):
+           self.name = name
+           self.email = email
+           self.student_id = student_id
+           self.age = age
+       
+       def __repr__(self):
+           return f"Student(name={self.name}, email={self.email}, student_id={self.student_id}, age={self.age})"

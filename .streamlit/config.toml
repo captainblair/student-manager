@@ -1,6 +1,7 @@
 [theme]
-primaryColor = "#6C63FF"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F0F2F6"
-textColor = "#262730"
+primaryColor = "#10B981"        # Vibrant green for buttons and accents
+backgroundColor = "#F3F4F6"     # Light gray for contrast
+secondaryBackgroundColor = "#FFFFFF"  # White for cards
+textColor = "#1F2937"           # Dark gray for readability
 font = "sans serif"
+base = "light"
